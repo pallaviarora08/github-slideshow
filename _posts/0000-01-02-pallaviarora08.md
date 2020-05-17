@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hi, Pallavi Arora is here
+This is github test project
 Use the left arrow to go back!
